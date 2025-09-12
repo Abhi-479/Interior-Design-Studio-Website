@@ -10,3 +10,12 @@ Urban Nest is a modern and responsive interior design website built with **HTML*
 - Services section with hover effects
 - Contact section with form and map image
 - Footer with company info, links, and social icons
+
+
+## How to Use
+1. Clone or download the repository.
+2. Open `index.html` in a web browser.
+3. Explore the website sections and content.
+
+## Author
+Abhishek Gawali
