@@ -58,7 +58,7 @@ a {
 
 .nav-links a:hover,
 .nav-links a.active {
-  color: white;
+  color: orange;
 }
 
 /* Hamburger Toggle */
@@ -433,4 +433,5 @@ a {
     height: 200px;
   }
 }
+
 
